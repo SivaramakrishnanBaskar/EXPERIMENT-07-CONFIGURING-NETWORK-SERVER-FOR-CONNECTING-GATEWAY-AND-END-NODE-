@@ -1,4 +1,9 @@
- ### EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
+### Date: 02/04/2024
+### Name: Sivaramakrishnan  B
+### Reg No: 212222110044
+### Dept: CSE(Iot)
+
+### EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
  
 ## Aim: To  configure  the Network server and end device for traferring data on the network
 ## Components required: end node stm 32 development kit , dragino LPS8, network server 
